@@ -1,8 +1,6 @@
 # ⚡ Calculadora de Consumo de Energia
 
-
 Projeto desenvolvido em Python para calcular o consumo mensal de energia elétrica de aparelhos eletrodomesticos.
->>>>>>> 3457659 (Atualiza README)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -22,7 +20,6 @@ Projeto desenvolvido em Python para calcular o consumo mensal de energia elétri
 Aparelho: Geladeira
 Consumo estimado: 36.00 kWh
 Custo estimado: R$ 23.40
->>>>>>> 3457659 (Atualiza README)
 
 ## 👩‍💻 Autora
 

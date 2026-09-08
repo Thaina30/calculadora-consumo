@@ -1,11 +1,8 @@
 # ⚡ Calculadora de Consumo de Energia
 
-Projeto desenvolvido em Python para calcular o consumo mensal de energia elétrica e estimar o custo da conta de luz.
 
-O objetivo do projeto foi a criação de uma calculadora de consumo elétrico. A linguagem utilizada foi Python, e para os cálculos foram utilizadas as seguintes fórmulas:
-
-- Consumo mensal (kWh): `potencia * tempo_diario * 30 / 1000`
-- Custo estimado (R$): `0.65 * consumo_mensal_kWh`
+Projeto desenvolvido em Python para calcular o consumo mensal de energia elétrica de aparelhos eletrodomesticos.
+>>>>>>> 3457659 (Atualiza README)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -22,11 +19,10 @@ O objetivo do projeto foi a criação de uma calculadora de consumo elétrico. A
 
 ## 💡 Exemplo
 
-```text
 Aparelho: Geladeira
 Consumo estimado: 36.00 kWh
 Custo estimado: R$ 23.40
-```
+>>>>>>> 3457659 (Atualiza README)
 
 ## 👩‍💻 Autora
 
